@@ -1,0 +1,14 @@
+{
+  "format": 1,
+  "shaders": [
+    {
+      "id": "banknote",
+      "name": "Banknote Engraving",
+      "version": "1.0.0",
+      "category": "Print",
+      "description": "Engraved shading, looping guilloche, and a colour you choose to keep.",
+      "path": "shaders/banknote/1.0.0",
+      "host": 1
+    }
+  ]
+}
