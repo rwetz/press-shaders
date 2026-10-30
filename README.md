@@ -1,4 +1,14 @@
-# Press shaders
+<p align="center">
+  <img src="assets/logo.svg" width="128" alt="Press shaders logo: three shader waves">
+</p>
+
+<h1 align="center">Press shaders</h1>
+
+<p align="center">
+  The shader library for <a href="https://github.com/rwetz/nexis-press">Press</a>: shaders are data, not code.
+</p>
+
+<!-- TODO(readme-standard): add docs/main.png, a screenshot of the running app, and reference it here -->
 
 The shader library for [Press](https://github.com/rwetz/nexis-press). Press
 reads `index.json` from this repository's `main` branch, and installs,
@@ -48,3 +58,12 @@ it installs a shader and shows what's wrong. The `id` and `version` in
 
 To try a library before publishing it, serve this folder over HTTP with CORS
 and set Press's library address (Settings, Shader library) to it.
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/brand/heptagram-white.svg">
+    <img src="docs/brand/heptagram-black.svg" alt="heptagram" width="48">
+  </picture>
+</p>
